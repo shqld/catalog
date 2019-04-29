@@ -1,0 +1,31 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Mirror</title>
+    <link rel="stylesheet" type="text/css" href="/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="/bulma.css" />
+  </head>
+  <style>
+    body {
+      --brand-color: rgba(200, 0, 80, 0.5);
+    }
+
+    #mirror-app {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      flex: 1;
+      flex-direction: row;
+    }
+    #mirror-container {
+      flex: 1;
+    }
+  </style>
+
+  <body>
+    <script async type="module" src="/app.js"></script>
+    <div id="mirror-app"></div>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="300"
+  height="300"
+  viewBox="100 130 300 300"
+  version="1.1"
+>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Group" transform="translate(40.000000, 360.000000)">
+      <rect x="0" y="0" width="420" height="60"></rect>
+      <text
+        font-family="BlinkMacSystemFont,-apple-system,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Fira Sans','Droid Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="48"
+        font-weight="600"
+        line-spacing="48"
+        fill="#7aa5d2"
+      >
+        <tspan x="145" y="30">Mirror</tspan>
+      </text>
+    </g>
+    <path
+      d="M165 165l0 170l170 0l0 -170l-170 0zm-5 -5l180 0l0 180l-180 0l0 -180z"
+      fill="#7aa5d2"
+      fill-rule="nonzero"
+    ></path>
+  </g>
+</svg>
